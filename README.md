@@ -1,6 +1,6 @@
 # 8,477 - The Hidden Data Story of Indian Railways
 
-**[View the live site →](#)** *(update this link once GitHub Pages is live)*
+**[View the live site →](#)**
 
 A scrollytelling data story that turns a 122-page government PDF into 128 verified, factual
 insights about Indian Railways - and, through it, about India itself: the extreme inequality
