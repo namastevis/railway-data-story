@@ -1,0 +1,219 @@
+{
+ "total": 8477,
+ "unique_estimate": 8453,
+ "cat_counts": {
+  "NSG1": 22,
+  "NSG2": 73,
+  "NSG3": 222,
+  "NSG4": 311,
+  "NSG5": 1011,
+  "NSG6": 4194,
+  "SG1": 35,
+  "SG2": 71,
+  "SG3": 387,
+  "HG1": 26,
+  "HG2": 548,
+  "HG3": 1577
+ },
+ "zone_counts": {
+  "NR": 1015,
+  "ECR": 747,
+  "SCR": 715,
+  "WR": 664,
+  "ER": 584,
+  "NWR": 580,
+  "NFR": 560,
+  "SR": 529,
+  "NER": 497,
+  "CR": 481,
+  "NCR": 410,
+  "SWR": 384,
+  "SER": 371,
+  "ECOR": 324,
+  "SECR": 319,
+  "WCR": 297
+ },
+ "state_counts": {
+  "UTTAR PRADESH": 1173,
+  "BIHAR": 768,
+  "WEST BENGAL": 765,
+  "MAHARASHTRA": 688,
+  "RAJASTHAN": 621,
+  "MADHYA PRADESH": 550,
+  "GUJARAT": 509,
+  "ANDHRA PRADESH": 447,
+  "TAMIL NADU": 423,
+  "KARNATAKA": 390,
+  "ASSAM": 319,
+  "ODISHA": 316,
+  "JHARKHAND": 313,
+  "PUNJAB": 285,
+  "TELANGANA": 224,
+  "HARYANA": 216,
+  "CHHATTISGARH": 141,
+  "KERALA": 95,
+  "HIMACHAL PRADESH": 55,
+  "DELHI": 46,
+  "UTTARAKHAND": 43,
+  "JAMMU AND KASHMIR": 34,
+  "TRIPURA": 27,
+  "GOA": 9,
+  "MANIPUR": 6,
+  "PUDUCHERRY": 4,
+  "NAGALAND": 3,
+  "ARUNACHAL PRADESH": 3,
+  "MIZORAM": 1,
+  "CHANDIGARH": 1,
+  "MEGHALAYA": 1,
+  "MAHARASHTRA/GUJARAT": 1
+ },
+ "tier_counts": {
+  "longtail": 7743,
+  "workhorse": 712,
+  "elite": 22
+ },
+ "state_bar": [
+  {
+   "state": "Uttar Pradesh",
+   "count": 1173,
+   "nsg1": 0
+  },
+  {
+   "state": "Bihar",
+   "count": 768,
+   "nsg1": 1
+  },
+  {
+   "state": "West Bengal",
+   "count": 765,
+   "nsg1": 3
+  },
+  {
+   "state": "Maharashtra",
+   "count": 688,
+   "nsg1": 8
+  },
+  {
+   "state": "Rajasthan",
+   "count": 621,
+   "nsg1": 0
+  },
+  {
+   "state": "Madhya Pradesh",
+   "count": 550,
+   "nsg1": 0
+  },
+  {
+   "state": "Gujarat",
+   "count": 509,
+   "nsg1": 2
+  },
+  {
+   "state": "Andhra Pradesh",
+   "count": 447,
+   "nsg1": 0
+  },
+  {
+   "state": "Tamil Nadu",
+   "count": 423,
+   "nsg1": 3
+  },
+  {
+   "state": "Karnataka",
+   "count": 390,
+   "nsg1": 1
+  },
+  {
+   "state": "Assam",
+   "count": 319,
+   "nsg1": 0
+  },
+  {
+   "state": "Odisha",
+   "count": 316,
+   "nsg1": 0
+  }
+ ],
+ "zone_tail_pct": {
+  "CR": 81.5,
+  "ECOR": 93.8,
+  "ECR": 91.7,
+  "ER": 92.6,
+  "NCR": 92.7,
+  "NER": 94.2,
+  "NFR": 94.5,
+  "NR": 91.7,
+  "NWR": 94.3,
+  "SCR": 91.2,
+  "SECR": 93.1,
+  "SER": 93.5,
+  "SR": 89.0,
+  "SWR": 90.1,
+  "WCR": 90.6,
+  "WR": 88.0
+ },
+ "top_districts": [
+  {
+   "district": "Patna",
+   "count": 71
+  },
+  {
+   "district": "Hooghly",
+   "count": 66
+  },
+  {
+   "district": "Purba Bardhaman",
+   "count": 63
+  },
+  {
+   "district": "24 Paraganas North",
+   "count": 59
+  },
+  {
+   "district": "24 Paraganas South",
+   "count": 56
+  },
+  {
+   "district": "Mumbai",
+   "count": 56
+  },
+  {
+   "district": "Murshidabad",
+   "count": 52
+  },
+  {
+   "district": "Nagpur",
+   "count": 50
+  },
+  {
+   "district": "Nadia",
+   "count": 50
+  },
+  {
+   "district": "Ahmadabad",
+   "count": 47
+  }
+ ],
+ "word_counts": {
+  "PUR": 1004,
+  "HALT": 690,
+  "ROAD": 317,
+  "JN": 446,
+  "NAGAR": 257,
+  "GARH": 141,
+  "GANJ": 135,
+  "KOT": 84,
+  "GHAT": 81,
+  "FLAG": 63,
+  "PALLI": 57,
+  "KALAN": 43,
+  "TOWN": 42,
+  "BAZAR": 39,
+  "CITY": 37,
+  "WADI": 28,
+  "SARAI": 27,
+  "KHURD": 20,
+  "PALLE": 20,
+  "CANTT": 13
+ }
+}

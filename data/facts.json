@@ -1,0 +1,642 @@
+[
+ {
+  "act": "scale",
+  "headline": "8,477 stations are listed under the Ministry of Railways as of December 2022.",
+  "detail": ""
+ },
+ {
+  "act": "scale",
+  "headline": "But 24 of those rows are exact duplicates \u2014 same name, same code, listed twice. The real count is closer to 8,453.",
+  "detail": ""
+ },
+ {
+  "act": "scale",
+  "headline": "Nearly every duplicate traces back to one division: Samastipur (SPJ), Bihar \u2014 its sheet appears to have been pasted into the national file twice.",
+  "detail": ""
+ },
+ {
+  "act": "scale",
+  "headline": "8,441 unique station codes exist across the list \u2014 fewer than the number of rows, because a handful of codes are shared.",
+  "detail": ""
+ },
+ {
+  "act": "scale",
+  "headline": "16 railway zones appear in this list. Two zones that officially exist today \u2014 Konkan Railway and South Coast Railway \u2014 don't appear at all; they're run as separate corporate entities.",
+  "detail": ""
+ },
+ {
+  "act": "scale",
+  "headline": "Goa shows only 9 stations in this Ministry list, because its main line, the Konkan Railway, isn't part of this dataset.",
+  "detail": ""
+ },
+ {
+  "act": "scale",
+  "headline": "66 operating divisions run the entire network, reporting up through those 16 zones.",
+  "detail": ""
+ },
+ {
+  "act": "scale",
+  "headline": "Northern Railway is the single biggest zone by station count: 1,015 stations.",
+  "detail": ""
+ },
+ {
+  "act": "scale",
+  "headline": "West Central Railway is the smallest zone: 297 stations.",
+  "detail": ""
+ },
+ {
+  "act": "scale",
+  "headline": "Ferozepur (FZR) division alone runs 249 stations \u2014 the busiest division in the country.",
+  "detail": ""
+ },
+ {
+  "act": "scale",
+  "headline": "Raipur ('R') division in Chhattisgarh runs just 50 \u2014 the smallest division nationally.",
+  "detail": ""
+ },
+ {
+  "act": "scale",
+  "headline": "Northern Railway's divisions average 203 stations each, more than double South Eastern Railway's average of 93 \u2014 the same zone rank, wildly different workloads.",
+  "detail": ""
+ },
+ {
+  "act": "hierarchy",
+  "headline": "4,194 stations \u2014 49.5%, essentially one in every two \u2014 are NSG6, the lowest non-suburban tier: under \u20b91 crore a year, under a million passengers.",
+  "detail": ""
+ },
+ {
+  "act": "hierarchy",
+  "headline": "1,577 stations are HG3, the lowest halt grade of all \u2014 under \u20b95 lakh a year.",
+  "detail": ""
+ },
+ {
+  "act": "hierarchy",
+  "headline": "Combined, 68.1% of the entire network sits in the bottom two tiers alone.",
+  "detail": ""
+ },
+ {
+  "act": "hierarchy",
+  "headline": "Only 22 stations nationwide \u2014 0.26% \u2014 are NSG1, the top tier, requiring over \u20b9500 crore a year and 20 million+ passengers.",
+  "detail": ""
+ },
+ {
+  "act": "hierarchy",
+  "headline": "Group every station into elite, workhorse, or long tail, and the split is 22 : 712 : 7,743.",
+  "detail": ""
+ },
+ {
+  "act": "hierarchy",
+  "headline": "91.3% of Indian Railways, by station count, is 'long tail' \u2014 low traffic, low revenue, essential anyway.",
+  "detail": ""
+ },
+ {
+  "act": "hierarchy",
+  "headline": "The gap between the top tier's earnings floor (\u20b9500 crore) and the bottom tier's ceiling (\u20b95 lakh) spans roughly four orders of magnitude, on one national ladder.",
+  "detail": ""
+ },
+ {
+  "act": "hierarchy",
+  "headline": "Central Railway has the healthiest mix of any zone \u2014 only 81.5% long-tail, the lowest share in the country.",
+  "detail": ""
+ },
+ {
+  "act": "hierarchy",
+  "headline": "Northeast Frontier Railway has the highest long-tail share of any zone: 94.5%.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "Uttar Pradesh has more stations than any other state: 1,173 \u2014 13.8% of the entire national network.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "Uttar Pradesh alone has more stations than the eight smallest states and union territories combined (20).",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "The top 5 states by station count hold 4,015 stations between them \u2014 47.4% of the whole country.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "Sikkim has zero stations in this list.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "Mizoram has exactly one station: Bhairabi, graded NSG6.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "Meghalaya has exactly one station too: Mendipathar, also NSG6.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "Nagaland has three stations. Arunachal Pradesh has three.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "Those five states combined \u2014 Sikkim, Mizoram, Meghalaya, Nagaland, Arunachal Pradesh \u2014 add up to 8 stations. Ferozepur division alone has 31 times that many.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "Jammu & Kashmir has only 34 stations, and 25 of them (73.5%) are the lowest NSG6 tier.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "28 of India's 592 districts \u2014 nearly 1 in 20 \u2014 have exactly one railway station.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "3 stations in the entire national list are missing a district value altogether.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "Patna district has more stations than any other single district in the country: 71.",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "Hooghly district in West Bengal is a close second at 66 \u2014 denser, station for station, than Mumbai district (56).",
+  "detail": ""
+ },
+ {
+  "act": "geography",
+  "headline": "Four of the ten most rail-dense districts in the country are in West Bengal.",
+  "detail": ""
+ },
+ {
+  "act": "elite",
+  "headline": "Delhi has only 46 stations total, but 3 of them are NSG1 \u2014 a 10.9% elite ratio, by far the highest of any state.",
+  "detail": ""
+ },
+ {
+  "act": "elite",
+  "headline": "Maharashtra holds 13 of the national elite-or-near-elite (NSG1+NSG2) stations, more than any other state.",
+  "detail": ""
+ },
+ {
+  "act": "elite",
+  "headline": "7 of India's 22 top-tier stations sit within the greater Mumbai region alone.",
+  "detail": ""
+ },
+ {
+  "act": "elite",
+  "headline": "Tamil Nadu's elite ratio is the second highest at 2.1% \u2014 still a fifth of Delhi's.",
+  "detail": ""
+ },
+ {
+  "act": "elite",
+  "headline": "8 of India's 35 states and union territories have at least one NSG1 station. 27 have none.",
+  "detail": ""
+ },
+ {
+  "act": "elite",
+  "headline": "India's formal 'suburban' (SG) station classification exists in only 4 states \u2014 West Bengal, Maharashtra, Tamil Nadu, Telangana. 28 states and UTs have no SG-classified stations at all.",
+  "detail": ""
+ },
+ {
+  "act": "elite",
+  "headline": "Sealdah division alone runs 129 of West Bengal's 271 suburban-grade stations.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "The word 'Halt' appears literally in 690 station names \u2014 25 times more than the 26 stations formally graded HG1.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "317 station names end in 'Road' \u2014 a habit from an era when the station was built as close to a town as terrain allowed, not necessarily in it.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "'PUR' \u2014 a Sanskrit-rooted suffix meaning town \u2014 appears in 1,004 station names. Roughly 1 in 8 stations nationwide.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "'GARH' (fort) shows up in 141 names. 'GANJ' (market town) in 135. 'KOT' (stronghold) in 84.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "'PALLI' and 'PALLE' \u2014 South Indian village suffixes \u2014 appear a combined 77 times, almost entirely in the southern states.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "43 stations are named '___ Kalan' (greater) and 20 '___ Khurd' (lesser) \u2014 a Persian-derived twin-village naming convention still alive on the railway map.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "Not one of the 446 junction stations spells out the full word 'Junction' in its printed name. Every one abbreviates to 'Jn.'",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "Only 13 stations carry 'Cantt' \u2014 marking historic military garrison towns.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "Puducherry's station names are the longest in the country on average: 16.25 characters.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "Tamil Nadu is a close second at 13.7 characters average \u2014 both far above Gujarat's lean 8.5-character average.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "Only 2 stations in the entire national list contain a digit in their name \u2014 both obscure survey-marker names in Jharkhand: 'TP No. 6/3' and 'TP No. 7/11'.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "Not a single station name anywhere in the list contains an apostrophe.",
+  "detail": ""
+ },
+ {
+  "act": "language",
+  "headline": "No station name in the country is reused more than twice.",
+  "detail": ""
+ },
+ {
+  "act": "codes",
+  "headline": "Just 6 station codes are a single letter long: D, J, G, R, S, Y.",
+  "detail": ""
+ },
+ {
+  "act": "codes",
+  "headline": "One of them \u2014 Y, for Yeliyur, an obscure Karnataka halt \u2014 holds one of the rarest identifiers in the whole system despite being a minor NSG6 stop.",
+  "detail": ""
+ },
+ {
+  "act": "codes",
+  "headline": "201 station codes are palindromes, reading the same forwards and backwards \u2014 including Cuttack's real code, CTC.",
+  "detail": ""
+ },
+ {
+  "act": "codes",
+  "headline": "A handful of codes accidentally spell real English words: GO, ON, BE, TO, and BIG.",
+  "detail": ""
+ },
+ {
+  "act": "codes",
+  "headline": "B is the single most common starting letter for both station names and station codes \u2014 1,063 of each.",
+  "detail": ""
+ },
+ {
+  "act": "codes",
+  "headline": "Only 4 codes in the entire system start with X, and just 10 start with Q.",
+  "detail": ""
+ },
+ {
+  "act": "codes",
+  "headline": "The shortest station name in the country is two letters long: IB, in Odisha.",
+  "detail": ""
+ },
+ {
+  "act": "detective",
+  "headline": "12 station codes are shared by two differently-named entries \u2014 codes are supposed to be nationally unique.",
+  "detail": ""
+ },
+ {
+  "act": "detective",
+  "headline": "Most of those are typo pairs of the same real place: 'BADLA GHAT' vs 'BADLAGHAT', 'LAHERIA SARAI' vs 'LAHERIASARAI', 'DARBANGA' vs 'DARBHANGA JN.' \u2014 almost all from Samastipur division again.",
+  "detail": ""
+ },
+ {
+  "act": "detective",
+  "headline": "But three are genuine collisions between real, unrelated stations hundreds of kilometers apart: Bara (Madhya Pradesh) and Bilara (Rajasthan) share a code. So do Kattur (Tamil Nadu) and Kottur (Telangana).",
+  "detail": ""
+ },
+ {
+  "act": "detective",
+  "headline": "Mumbai's Dadar is listed twice under two different codes \u2014 DR and DDR \u2014 one per railway zone that touches it.",
+  "detail": ""
+ },
+ {
+  "act": "detective",
+  "headline": "136 stations have no historical (pre-2017) category recorded at all \u2014 a blank field in an otherwise complete national dataset.",
+  "detail": ""
+ },
+ {
+  "act": "detective",
+  "headline": "Another 191 rows carry stray, non-standard text in that same column \u2014 including the literal word 'New', a lone dash character, and one row where 'NSG6' (a value from a completely different column) got typed in by mistake.",
+  "detail": ""
+ },
+ {
+  "act": "detective",
+  "headline": "Altogether, about 2.3% of the dataset carries a typo, blank, or copy-paste artifact in just that one column.",
+  "detail": ""
+ },
+ {
+  "act": "detective",
+  "headline": "The state field has miscapitalized duplicates too \u2014 'Karnataka' appears as a separate value from 'KARNATAKA', and the same happens for West Bengal and Odisha.",
+  "detail": ""
+ },
+ {
+  "act": "detective",
+  "headline": "One station, Navapur, is listed with its state field reading 'Maharashtra/Gujarat' \u2014 because its platform genuinely straddles the two states' border.",
+  "detail": ""
+ },
+ {
+  "act": "detective",
+  "headline": "36 station names appear twice each somewhere in the country \u2014 including two stations both named Srinagar: one the Kashmir capital, one an unrelated stop in Rajasthan.",
+  "detail": ""
+ },
+ {
+  "act": "rollcall",
+  "headline": "CSMT \u2014 Mumbai, Maharashtra",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Dadar \u2014 Mumbai, Maharashtra",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Kalyan Jn. \u2014 Thane, Maharashtra",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Lokmanya Tilak Terminus \u2014 Mumbai, Maharashtra",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Panvel \u2014 Raigad, Maharashtra",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Thane \u2014 Thane, Maharashtra",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Pune Jn. \u2014 Pune, Maharashtra",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Patna Jn. \u2014 Patna, Bihar",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Howrah \u2014 Howrah, West Bengal",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Sealdah \u2014 Kolkata, West Bengal",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Delhi Jn. \u2014 Delhi",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Hazrat Nizamuddin Jn. \u2014 Delhi",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "New Delhi \u2014 Delhi",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Secunderabad Jn. \u2014 Hyderabad, Telangana",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Howrah South N C \u2014 Howrah, West Bengal",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Chennai Central \u2014 Chennai, Tamil Nadu",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Chennai Egmore \u2014 Chennai, Tamil Nadu",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Tambaram \u2014 Kanchipuram, Tamil Nadu",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "KSR Bengaluru \u2014 Bengaluru Urban, Karnataka",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Ahmedabad Jn. \u2014 Ahmadabad, Gujarat",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Mumbai Central \u2014 Mumbai, Maharashtra",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Surat \u2014 Surat, Gujarat",
+  "detail": "One of India's 22 NSG1 stations, the country's top commercial tier."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'D' \u2014 Deula, West Bengal",
+  "detail": "One of only 6 single-letter station codes in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'J' \u2014 Jalna, Maharashtra",
+  "detail": "One of only 6 single-letter station codes in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'G' \u2014 Gondia Jn., Maharashtra",
+  "detail": "One of only 6 single-letter station codes in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'R' \u2014 Raipur Jn., Chhattisgarh",
+  "detail": "One of only 6 single-letter station codes in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'S' \u2014 Shrirangapattana, Karnataka",
+  "detail": "One of only 6 single-letter station codes in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'Y' \u2014 Yeliyur, Karnataka",
+  "detail": "One of only 6 single-letter station codes in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "'Bahadurpur' \u2014 used for two different stations",
+  "detail": "One of 36 station names that appear twice somewhere in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "'Basuchak Halt' \u2014 used for two different stations",
+  "detail": "One of 36 station names that appear twice somewhere in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "'Gangarampur' \u2014 used for two different stations",
+  "detail": "One of 36 station names that appear twice somewhere in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "'Kamalapur' \u2014 used for two different stations",
+  "detail": "One of 36 station names that appear twice somewhere in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "'Kamalpur Halt' \u2014 used for two different stations",
+  "detail": "One of 36 station names that appear twice somewhere in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "'Pipradih' \u2014 used for two different stations",
+  "detail": "One of 36 station names that appear twice somewhere in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "'Ramnathpur' \u2014 used for two different stations",
+  "detail": "One of 36 station names that appear twice somewhere in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "'Saheli' \u2014 used for two different stations",
+  "detail": "One of 36 station names that appear twice somewhere in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "'Samrala' \u2014 used for two different stations",
+  "detail": "One of 36 station names that appear twice somewhere in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "'Srinagar' \u2014 used for two different stations",
+  "detail": "One of 36 station names that appear twice somewhere in the country."
+ },
+ {
+  "act": "rollcall",
+  "headline": "'IB' \u2014 one of India's shortest station names",
+  "detail": ""
+ },
+ {
+  "act": "rollcall",
+  "headline": "'PEN' \u2014 one of India's shortest station names",
+  "detail": ""
+ },
+ {
+  "act": "rollcall",
+  "headline": "'KEM' \u2014 one of India's shortest station names",
+  "detail": ""
+ },
+ {
+  "act": "rollcall",
+  "headline": "'BES' \u2014 one of India's shortest station names",
+  "detail": ""
+ },
+ {
+  "act": "rollcall",
+  "headline": "'RAY' \u2014 one of India's shortest station names",
+  "detail": ""
+ },
+ {
+  "act": "rollcall",
+  "headline": "'MOR' \u2014 one of India's shortest station names",
+  "detail": ""
+ },
+ {
+  "act": "rollcall",
+  "headline": "'ORO' \u2014 one of India's shortest station names",
+  "detail": ""
+ },
+ {
+  "act": "rollcall",
+  "headline": "'BAH' \u2014 one of India's shortest station names",
+  "detail": ""
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'KDK' \u2014 a palindrome",
+  "detail": "Reads the same forwards and backwards."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'NGN' \u2014 a palindrome",
+  "detail": "Reads the same forwards and backwards."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'LNL' \u2014 a palindrome",
+  "detail": "Reads the same forwards and backwards."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'JNJ' \u2014 a palindrome",
+  "detail": "Reads the same forwards and backwards."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'GMG' \u2014 a palindrome",
+  "detail": "Reads the same forwards and backwards."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'TMT' \u2014 a palindrome",
+  "detail": "Reads the same forwards and backwards."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'PMP' \u2014 a palindrome",
+  "detail": "Reads the same forwards and backwards."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'DUD' \u2014 a palindrome",
+  "detail": "Reads the same forwards and backwards."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'BRB' \u2014 a palindrome",
+  "detail": "Reads the same forwards and backwards."
+ },
+ {
+  "act": "rollcall",
+  "headline": "Code 'CTC' \u2014 a palindrome",
+  "detail": "Reads the same forwards and backwards."
+ }
+]
