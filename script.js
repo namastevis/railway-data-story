@@ -77,7 +77,6 @@ const CAPTIONS = {
 /* ---------------- build DOM ---------------- */
 ACTS.forEach(act=>{
   const sec = story.append('section').attr('class','act').attr('id','act-'+act.key);
-  sec.append('p').attr('class','act-label').text(act.label);
   sec.append('h2').attr('class','act-title').text(act.title);
   const scene = sec.append('div').attr('class','scene');
   const stickyCol = scene.append('div').attr('class','sticky-col');
@@ -98,7 +97,6 @@ ACTS.forEach(act=>{
 
 /* rollcall section */
 const rc = story.append('section').attr('class','act').attr('id','act-rollcall');
-rc.append('p').attr('class','act-label').text('Act VIII');
 rc.append('h2').attr('class','act-title').text('One hundred and twenty-eight small stories, in full');
 const grid = rc.append('div').attr('class','rollcall-grid');
 (factsByAct.get('rollcall')||[]).forEach(f=>{
