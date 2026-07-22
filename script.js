@@ -63,6 +63,17 @@ function appendGlossary(container){
   card.append('p').style('margin-top','.75rem').html('In short: the lower the number after NSG, the bigger the station. HG and SG sit on their own, smaller scales entirely. Keep this in mind for everything that follows.');
 }
 
+/* ---------------- chart captions/legends ---------------- */
+const CAPTIONS = {
+  scale: 'Each bar is one of India\'s 16 railway zones. Orange = the largest (Northern Railway), teal = the smallest (West Central Railway).',
+  hierarchy: 'Each square is one station. Light gray = long tail, mid-gray = workhorse, orange = elite (NSG1).',
+  geography: 'Bar length = total stations in that state. Orange badge = how many of them are NSG1, the top tier. No badge means zero.',
+  elite: 'Of each state\'s stations, the share graded NSG1 - the top commercial tier.',
+  language: 'How many station names contain each word or suffix (log scale).',
+  codes: 'Station codes grouped by their first letter.',
+  detective: '',
+};
+
 /* ---------------- build DOM ---------------- */
 ACTS.forEach(act=>{
   const sec = story.append('section').attr('class','act').attr('id','act-'+act.key);
@@ -71,6 +82,7 @@ ACTS.forEach(act=>{
   const scene = sec.append('div').attr('class','scene');
   const stickyCol = scene.append('div').attr('class','sticky-col');
   const stickyVis = stickyCol.append('div').attr('class','sticky-visual');
+  if(CAPTIONS[act.key]) stickyVis.append('p').attr('class','viz-caption').text(CAPTIONS[act.key]);
   stickyVis.append('svg').attr('id','viz-'+act.key).attr('viewBox','0 0 600 600').attr('preserveAspectRatio','xMidYMid meet');
 
   const stepsCol = scene.append('div').attr('class','steps-col');
